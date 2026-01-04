@@ -59,14 +59,14 @@ Whether I'm up late figuring out a complex bug in **Kotlin**, sketching out a ne
 ### My Coding Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=james719-code&show_icons=true&bg_color=00000000&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=james719-code&show_icons=true&theme=dark&hide_border=true" alt="James's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=james719-code&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james719-code&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=00000000" height="350" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=james719-code&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" />
 </div>
 
 ### Achievements
