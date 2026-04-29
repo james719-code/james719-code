@@ -8,7 +8,7 @@ I have always been fascinated by how things work under the hood. That curiosity 
 
 Whether I'm up late figuring out a complex bug in **Kotlin**, sketching out a new UI for a school project, or learning a completely new framework just for fun, I'm always looking for the next challenge. I don't just write code; I try to build tools that help people—like emergency apps for my community or guidance platforms for my fellow students.
 
-- **My Current Obsession:** Mastering Native Android Development and scalable Backends.
+- **My Current Obsession:** Mastering Native Android Development, scalable Backends, and Embedded Systems.
 - **My Goal:** To bridge the gap between complex theory and practical, user-friendly applications.
 - **My Vibe:** Always learning, always building.
 
@@ -25,6 +25,8 @@ Whether I'm up late figuring out a complex bug in **Kotlin**, sketching out a ne
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 **Mobile & Frameworks**
 <br>
@@ -41,6 +43,11 @@ Whether I'm up late figuring out a complex bug in **Kotlin**, sketching out a ne
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+**Embedded & IoT**
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 ---
 
