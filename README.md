@@ -2,18 +2,9 @@
 
 # Hello there!
 
-I'm James, a Computer Science student at **Partido State University** who is fueled by curiosity, coffee, and the drive to build useful technology.
+Hi, I’m James — a Computer Science student and Android-focused developer from the Philippines.
 
-I work as an **Android + Computer Vision / Edge AI Developer**, focused on building practical apps powered by lightweight AI models. My work combines native Android development, OCR, educational video enhancement, super-resolution, visual classification, TensorFlow Lite deployment, and offline mobile-first systems.
-
-I have always been fascinated by how things work under the hood. That curiosity led me to become the **President of SPECS**, where I get to share my passion for tech with others, and it drives me every day to build software that actually solves real-world problems.
-
-Whether I'm up late figuring out a complex bug in **Kotlin**, fine-tuning a lightweight model, testing OCR readability, sketching a new UI, or learning a completely new framework just for fun, I'm always looking for the next challenge. I don't just write code; I try to build tools that help people—like emergency apps, educational systems, offline AI tools, and student-focused platforms.
-
-- **My Current Obsession:** Native Android Development, Computer Vision, Edge AI, scalable Backends, and Embedded Systems.
-- **My Goal:** To bridge the gap between complex theory and practical, user-friendly applications.
-- **My Vibe:** Always learning, always building.
-
+I build practical Android and web systems for schools, organizations, and local communities. My current focus is Kotlin, Jetpack Compose, Firebase, Appwrite, TensorFlow Lite, OCR, super-resolution, and offline-first mobile AI systems.
 ---
 
 ### Professional Experience Snapshot
@@ -87,18 +78,22 @@ Whether I'm up late figuring out a complex bug in **Kotlin**, fine-tuning a ligh
 
 ---
 
-### Things I've Built
+### Featured Work
 
-| Project | What is it? | The Tech |
-| :--- | :--- | :--- |
-| **EduScale** | A research monorepo for improving the readability of low-resolution educational videos on budget Android devices. I fine-tuned lightweight **SPAN** super-resolution models, evaluated OCR readability, and packaged optimized TensorFlow Lite models for offline Android enhancement. | Python, PyTorch, SPAN, TensorFlow Lite, Kotlin, Android |
-| **Illegible Handwriting OCR** | An OCR and Android project for recognizing difficult handwriting. I built the Python training workflow, dataset structure, evaluation pipeline, benchmark tracking, and TensorFlow Lite export flow for Android deployment. | Python, TensorFlow, OpenCV, TFLite, Android |
-| **SafeAI Buddy** | An Android screen-safety app backed by a local TensorFlow Lite visual classifier. It runs detection on-device using screen frames, evaluates visual risk locally, and can show a blocking overlay based on configured thresholds. | Kotlin, Jetpack Compose, MediaProjection, TensorFlow Lite, Python |
-| **CREST** | A research repository I built to help students access papers easily. It was a fun challenge migrating legacy code to modern **Kotlin**! | Kotlin, Jetpack Compose, Firebase |
-| **SalbaBida** | An emergency app designed to keep people safe. It pulls real-time weather and map data to help during disasters. | Java, XML, Firebase |
-| **HGDG-GAD** | A compliance tool for DepEd projects. I focused heavily on making sure the data stays secure and accessible 24/7. | JS, Vite, Firebase, Netlify |
-| **SPECS System** | An admin tool for my own student org! It visualizes data and helps us manage tasks way more efficiently. | Appwrite, Bootstrap, Chart.js |
-| **Echo-Nnect** | A sleek note-taking app. I wanted to build something that worked perfectly offline for rapid thought capturing. | Java, Room DB, Android SDK |
+#### Android + Edge AI
+- EduScale — Android + TFLite super-resolution for educational video readability.
+- SafeAI Buddy — Android screen-safety app using local TensorFlow Lite classification.
+- Illegible Handwriting OCR — OCR + Android deployment workflow for difficult handwriting.
+
+#### Android Systems
+- ANVIL — productivity/blocking app with WorkManager, Room, Hilt, and Jetpack Compose.
+- CRESTV2 — research e-library app with roles, PDF uploads, Firebase, and Appwrite.
+- SalbaBida — emergency preparedness app with weather/map features.
+
+#### Web/Admin Systems
+- SPECS — student organization management portal.
+- CMS — club management system.
+- HGDG-GAD — compliance scoring tool.
 
 ---
 
