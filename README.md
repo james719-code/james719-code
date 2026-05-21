@@ -1,103 +1,124 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=350&color=0:2C3E50,50:4CA1AF,100:3B82F6&text=James%20Ryan%20S.%20Gallego&textBg=false&animation=twinkling&section=header&desc=Student%20%7C%20Android%20%2B%20Computer%20Vision%20%2F%20Edge%20AI%20Developer&fontColor=FFFFFF&fontAlignY=35&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=350&color=0:2C3E50,50:4CA1AF,100:3B82F6&text=James%20Ryan%20S.%20Gallego&textBg=false&animation=twinkling&section=header&desc=Android%20%2B%20Edge%20AI%20Developer%20%7C%20Kotlin%20%E2%80%A2%20TensorFlow%20Lite%20%E2%80%A2%20Offline-first%20Systems&fontColor=FFFFFF&fontAlignY=35&descAlignY=65)
 
-# Hello there!
+# Hello there! I'm James.
 
-Hi, I’m James — a Computer Science student and Android-focused developer from the Philippines.
+I’m a Computer Science student and Android-focused developer from the Philippines. I build practical Android and web systems for schools, organizations, and local communities.
 
-I build practical Android and web systems for schools, organizations, and local communities. My current focus is Kotlin, Jetpack Compose, Firebase, Appwrite, TensorFlow Lite, OCR, super-resolution, and offline-first mobile AI systems.
+My current focus is **Kotlin**, **Jetpack Compose**, **Firebase**, **Appwrite**, **TensorFlow Lite**, **OCR**, **super-resolution**, and **offline-first mobile AI systems**.
+
 ---
 
-### Professional Experience Snapshot
+## Current Focus
+
+Android Development - Kotlin, Java, Jetpack Compose, XML, Room DB, Firebase
+
+Edge AI / Computer Vision - TensorFlow Lite, OCR, super-resolution, visual classification
+
+Web Systems - JavaScript, TypeScript, React, Bootstrap, Appwrite, Firebase
+
+Practical Systems - School portals, organization tools, admin dashboards, mobile apps
+
+
+---
+
+## Professional Experience Snapshot
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Android%20Developer-3%20Years-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Developer-2%20Years-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android%20Development-3%20Years-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Systems-2%20Years-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Computer%20Vision%20%2F%20Edge%20AI-5%20Months-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Developer-2%20Months-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Prototyping-2%20Months-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
 <br>
 
-| Role | Experience | What I Focus On |
-| :--- | :---: | :--- |
-| **Android Developer** | **3 Years** | Building native Android applications using Kotlin, Java, Jetpack Compose, XML, Firebase, Room DB, Android SDK, and offline-first app architecture. |
-| **Web Developer** | **2 Years** | Creating responsive web systems, dashboards, and student-focused platforms using JavaScript, TypeScript, React, Bootstrap, Firebase, Appwrite, and Netlify. |
-| **Computer Vision / Edge AI Developer** | **5 Months** | Training and fine-tuning lightweight AI models for super-resolution, OCR, visual classification, readability improvement, and Android-ready TensorFlow Lite deployment. |
-| **IoT Developer** | **2 Months** | Prototyping embedded and connected systems using Arduino, ESP32, sensors, and hardware-software integration. |
+| Role                                    |  Experience  | Focus                                                                                                                                              |
+| :-------------------------------------- | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Android Developer**                   |  **3 Years** | Native Android apps using Kotlin, Java, Jetpack Compose, XML, Firebase, Room DB, Android SDK, and offline-first architecture.                      |
+| **Web Systems Developer**               |  **2 Years** | Responsive web systems, dashboards, and student-focused platforms using JavaScript, TypeScript, React, Bootstrap, Firebase, Appwrite, and Netlify. |
+| **Computer Vision / Edge AI Developer** | **5 Months** | Lightweight AI models for super-resolution, OCR, visual classification, readability improvement, and Android-ready TensorFlow Lite deployment.     |
+| **IoT Prototyping**                     | **2 Months** | Basic embedded systems using Arduino, ESP32, sensors, and hardware-software integration.                                                           |
 
 ---
 
-### What I Work With
+## Featured Repositories
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-**Mobile & Frameworks**
-<br>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
-
-**AI, Computer Vision & Edge Deployment**
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow%20Lite-Edge%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/OCR-Readability%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/SPAN-Super%20Resolution-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Model%20Fine--Tuning-Computer%20Vision-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-**Backend & Tools**
-<br>
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
-**Embedded & IoT**
-<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+| Project                                                                                              | Type                        | Highlights                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [**ANVIL**](https://github.com/james719-code/ANVIL)                                                  | Android Productivity App    | Kotlin, Jetpack Compose, Room, Hilt, WorkManager, app blocking, DNS filtering, encrypted preferences |
+| [**EduScale**](https://github.com/james719-code/EduScale)                                            | Android + Edge AI Research  | TensorFlow Lite, SPAN super-resolution, OCR metrics, Android offline enhancement, benchmark pipeline |
+| [**CRESTV2**](https://github.com/james719-code/CRESTV2)                                              | Android School E-Library    | Kotlin, Jetpack Compose, Firebase, Appwrite, PDF upload, teacher approval workflow                   |
+| [**SPECS Management System**](https://github.com/james719-code/SPECS-Organization-Management-System) | Web/Admin System            | Appwrite auth, member records, events, payments, file storage, dashboards, reports                   |
+| [**SafeAI Buddy**](https://github.com/james719-code/SafeAI-Gore-Detection-System)                    | Android + TFLite Classifier | Local TensorFlow Lite classification, Android screen-safety prototype, Python training pipeline      |
+| [**CMS**](https://github.com/james719-code/CMS)                                                      | Full-Stack Web System       | Django REST, React, JWT auth, club management, events, documents, finance tracking                   |
 
 ---
 
-### Featured Work
+## Project Areas
 
-#### Android + Edge AI
-- EduScale — Android + TFLite super-resolution for educational video readability.
-- SafeAI Buddy — Android screen-safety app using local TensorFlow Lite classification.
-- Illegible Handwriting OCR — OCR + Android deployment workflow for difficult handwriting.
+### Android + Edge AI
 
-#### Android Systems
-- ANVIL — productivity/blocking app with WorkManager, Room, Hilt, and Jetpack Compose.
-- CRESTV2 — research e-library app with roles, PDF uploads, Firebase, and Appwrite.
-- SalbaBida — emergency preparedness app with weather/map features.
+* **EduScale** — Android + TensorFlow Lite super-resolution system for improving educational video readability.
+* **SafeAI Buddy** — Android screen-safety prototype using local TensorFlow Lite classification.
+* **Illegible Handwriting OCR** — OCR and Android deployment workflow for difficult handwriting recognition.
 
-#### Web/Admin Systems
-- SPECS — student organization management portal.
-- CMS — club management system.
-- HGDG-GAD — compliance scoring tool.
+### Android Systems
+
+* **ANVIL** — Productivity and blocking app using WorkManager, Room, Hilt, and Jetpack Compose.
+* **CRESTV2** — Research e-library app with roles, PDF uploads, Firebase, and Appwrite.
+* **SalbaBida** — Emergency preparedness app with community-focused weather and map features.
+
+### Web / Admin Systems
+
+* **SPECS** — Student organization management portal for members, events, payments, files, and reports.
+* **CMS** — Club management system using Django REST and React.
+* **HGDG-GAD** — Compliance scoring tool for structured project evaluation.
 
 ---
 
-### My Coding Journey
+## What I Work With
+
+### Languages
+
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+### Android & Frontend
+
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" /><img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" /><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+
+### AI, Computer Vision & Edge Deployment
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/TensorFlow%20Lite-Edge%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><img src="https://img.shields.io/badge/OCR-Readability%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /><img src="https://img.shields.io/badge/SPAN-Super%20Resolution-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/Model%20Fine--Tuning-Computer%20Vision-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+### Backend, Database & Tools
+
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /><img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" /<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
+### Embedded & IoT
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+---
+
+## Strong Fit For
+
+Android development internships
+
+Junior Android developer roles
+
+Android + TensorFlow Lite prototypes
+
+Offline-first mobile systems
+
+School and organization management systems
+
+Firebase / Appwrite-based applications
+
+Student-focused web and mobile tools
+
+---
+
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=james719-code&show_icons=true&theme=dark&hide_border=true" alt="James's GitHub Stats" />
@@ -110,13 +131,17 @@ I build practical Android and web systems for schools, organizations, and local 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=james719-code&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" />
 </div>
 
-### Achievements
+---
+
+## Achievements
 
 <div align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=james719-code&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-### Activity Graph
+---
+
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=james719-code&theme=react" />
@@ -124,7 +149,7 @@ I build practical Android and web systems for schools, organizations, and local 
 
 ---
 
-### Let's Connect!
+## Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/james-ryan-gallego-27a337329">
@@ -135,4 +160,4 @@ I build practical Android and web systems for schools, organizations, and local 
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C3E50,50:4CA1AF,100:3B82F6&textBg=false&animation=twinkling&section=footer&reversal=false)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=150\&color=0:2C3E50,50:4CA1AF,100:3B82F6\&textBg=false\&animation=twinkling\&section=footer\&reversal=false)
