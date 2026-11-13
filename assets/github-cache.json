@@ -1,0 +1,35 @@
+{
+  "username": "james719-code",
+  "total_contributions": "486+",
+  "total_commits": "373+",
+  "pull_requests": "2",
+  "total_stars": "1",
+  "repositories": "16",
+  "languages": [
+    {
+      "name": "Kotlin",
+      "percent": 39.2,
+      "color": "#ffffff"
+    },
+    {
+      "name": "TypeScript",
+      "percent": 29.3,
+      "color": "#d4d4d8"
+    },
+    {
+      "name": "Python",
+      "percent": 13.6,
+      "color": "#a1a1aa"
+    },
+    {
+      "name": "JavaScript",
+      "percent": 8.7,
+      "color": "#71717a"
+    },
+    {
+      "name": "PHP & Others",
+      "percent": 9.2,
+      "color": "#52525b"
+    }
+  ]
+}

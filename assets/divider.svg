@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="100%" height="auto" fill="none">
+  <!-- Left horizontal solid traces -->
+  <line x1="80" y1="12" x2="320" y2="12" stroke="#27272a" stroke-width="1" stroke-dasharray="4 4" />
+  <line x1="330" y1="12" x2="435" y2="12" stroke="#3f3f46" stroke-width="1.2" stroke-linecap="round" />
+
+  <!-- Left accent micro-dots -->
+  <circle cx="380" cy="12" r="1.5" fill="#71717a" />
+  <circle cx="410" cy="12" r="2" fill="#d4d4d8" />
+
+  <!-- Center Diamond Tech Node (Monochrome) -->
+  <g transform="translate(450, 12)">
+    <!-- Outer Diamond -->
+    <polygon points="0,-7 7,0 0,7 -7,0" fill="#18181b" stroke="#3f3f46" stroke-width="1.5" />
+    <!-- Inner White Dot -->
+    <circle cx="0" cy="0" r="2" fill="#ffffff" />
+  </g>
+
+  <!-- Right horizontal solid traces -->
+  <line x1="465" y1="12" x2="570" y2="12" stroke="#3f3f46" stroke-width="1.2" stroke-linecap="round" />
+  <!-- Right accent micro-dots -->
+  <circle cx="490" cy="12" r="2" fill="#d4d4d8" />
+  <circle cx="520" cy="12" r="1.5" fill="#71717a" />
+  <line x1="580" y1="12" x2="820" y2="12" stroke="#27272a" stroke-width="1" stroke-dasharray="4 4" />
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="auto" fill="none">
+  <defs>
+    <pattern id="footer-dark-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1c1c1f" stroke-width="0.5" />
+    </pattern>
+
+    <style>
+      .font-sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box: Solid deep black with zinc border -->
+  <rect x="1" y="1" width="898" height="118" rx="16" fill="#09090b" stroke="#27272a" stroke-width="1.2" />
+
+  <!-- Grid Pattern -->
+  <rect x="1" y="1" width="898" height="118" rx="16" fill="url(#footer-dark-grid)" />
+
+  <!-- Top Subtle Edge Line -->
+  <line x1="80" y1="1" x2="820" y2="1" stroke="#3f3f46" stroke-width="1.5" />
+
+  <!-- Left Accent Tech Bracket -->
+  <g transform="translate(60, 48)" opacity="0.6">
+    <path d="M12 0 L0 12 L12 24" stroke="#52525b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Right Accent Tech Bracket -->
+  <g transform="translate(828, 48)" opacity="0.6">
+    <path d="M0 0 L12 12 L0 24" stroke="#52525b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Center Content with Sequential Layout (No overlapping elements) -->
+  <g transform="translate(450, 40)" text-anchor="middle">
+    <!-- Main Quote / Slogan -->
+    <text x="0" y="0" fill="#ffffff" font-size="15" font-weight="700" letter-spacing="0.2" class="font-sans">
+      Building robust offline-first mobile AI &amp; practical high-impact systems
+    </text>
+
+    <!-- Subtitle / Collaboration Note -->
+    <text x="0" y="24" fill="#a1a1aa" font-size="13" font-weight="400" class="font-sans">
+      Open for Android Engineering Internships &amp; Roles • Designed with clean architecture &amp; precision
+    </text>
+
+    <!-- Connect badges row / text line with clean tspan sequence -->
+    <text x="0" y="48" font-size="12" class="font-sans">
+      <tspan fill="#e4e4e7" font-weight="600">James Ryan S. Gallego</tspan>
+      <tspan fill="#52525b" font-weight="400">&#160;&#160;•&#160;&#160;</tspan>
+      <tspan fill="#a1a1aa" font-weight="500">github.com/james719-code</tspan>
+      <tspan fill="#52525b" font-weight="400">&#160;&#160;•&#160;&#160;</tspan>
+      <tspan fill="#71717a" font-weight="500">Philippines</tspan>
+    </text>
+  </g>
+</svg>

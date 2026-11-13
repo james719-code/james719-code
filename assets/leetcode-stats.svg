@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="100%" height="auto" fill="none">
+  <defs>
+    <style>
+      .font-sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+      .animate-arc {
+        transition: stroke-dashoffset 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+      }
+    </style>
+  </defs>
+
+  <!-- Card Frame: Pure Dark Monochrome -->
+  <rect x="1" y="1" width="518" height="218" rx="12" fill="#09090B" stroke="#27272A" stroke-width="1" />
+
+  <!-- Top Bar: Brand, Title, Status & Username -->
+  <g transform="translate(24, 18)">
+    <!-- LeetCode Logo (Monochrome White & Zinc) -->
+    <g transform="scale(0.85)">
+      <path d="M16.102 17.93l-2.697 2.607c-.466.467-1.111.662-1.823.662s-1.357-.195-1.824-.662l-4.332-4.363c-.467-.467-.702-1.15-.702-1.863s.235-1.357.702-1.824l4.319-4.38c.467-.467 1.125-.645 1.837-.645s1.357.195 1.823.662l2.697 2.606c.514.515 1.365.497 1.9-.038.535-.536.553-1.387.039-1.901l-2.609-2.636a5.074 5.074 0 0 0-3.623-1.464c-1.378 0-2.684.536-3.659 1.512L4.093 11.95A5.19 5.19 0 0 0 2.56 15.65c0 1.401.547 2.709 1.533 3.703l4.332 4.363a5.176 5.176 0 0 0 3.659 1.512c1.377 0 2.684-.536 3.659-1.512l2.697-2.607c.535-.515.553-1.366.039-1.901-.514-.535-1.365-.553-1.9-.038z" fill="#FFFFFF"/>
+      <path d="M20.65 13.003H9.272a1.375 1.375 0 1 1 0-2.75H20.65a1.375 1.375 0 1 1 0 2.75z" fill="#71717A"/>
+    </g>
+
+    <!-- Title -->
+    <text class="font-sans" x="28" y="16" font-size="15" font-weight="700" fill="#FFFFFF" letter-spacing="0.3">LeetCode Stats</text>
+    
+    <!-- Status Indicator -->
+    <circle cx="150" cy="11" r="3" fill="#FFFFFF" />
+
+    <!-- Username Handle -->
+    <text class="font-sans" x="472" y="15" text-anchor="end" font-size="12" font-weight="500" fill="#71717A">@james719-code</text>
+    
+    <!-- Header Divider -->
+    <line x1="0" y1="28" x2="472" y2="28" stroke="#27272A" stroke-width="1" />
+  </g>
+
+  <!-- Left Column: Circular Donut Progress -->
+  <g transform="translate(85, 128)">
+    <!-- Background Track -->
+    <circle cx="0" cy="0" r="44" stroke="#27272A" stroke-width="7" fill="none" />
+    <!-- Progress Arc -->
+    <circle cx="0" cy="0" r="44" stroke="#FFFFFF" stroke-width="7" fill="none"
+            stroke-linecap="round"
+            stroke-dasharray="276.46"
+            stroke-dashoffset="271.99"
+            transform="rotate(-90)"
+            class="animate-arc" />
+    <!-- Center Metric -->
+    <text class="font-sans" x="0" y="-4" text-anchor="middle" font-size="22" font-weight="800" fill="#FFFFFF">54</text>
+    <text class="font-sans" x="0" y="12" text-anchor="middle" font-size="9" font-weight="700" fill="#A1A1AA" letter-spacing="1.2">SOLVED</text>
+    <text class="font-sans" x="0" y="27" text-anchor="middle" font-size="10" font-weight="500" fill="#71717A">1.6%</text>
+  </g>
+
+  <!-- Right Column: Breakdown by Difficulty -->
+  <g transform="translate(190, 68)">
+    <!-- Easy Bar -->
+    <g transform="translate(0, 0)">
+      <text class="font-sans" x="0" y="10" font-size="11" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">Easy</text>
+      <text class="font-sans" x="290" y="10" text-anchor="end" font-size="11" font-weight="600" fill="#F4F4F5">28 <tspan fill="#71717A" font-weight="400">/ 830</tspan></text>
+      <rect x="0" y="16" width="290" height="6" rx="3" fill="#27272A" />
+      <rect x="0" y="16" width="9" height="6" rx="3" fill="#FFFFFF" />
+    </g>
+
+    <!-- Medium Bar -->
+    <g transform="translate(0, 32)">
+      <text class="font-sans" x="0" y="10" font-size="11" font-weight="700" fill="#D4D4D8" letter-spacing="0.5">Medium</text>
+      <text class="font-sans" x="290" y="10" text-anchor="end" font-size="11" font-weight="600" fill="#F4F4F5">22 <tspan fill="#71717A" font-weight="400">/ 1740</tspan></text>
+      <rect x="0" y="16" width="290" height="6" rx="3" fill="#27272A" />
+      <rect x="0" y="16" width="4" height="6" rx="3" fill="#D4D4D8" />
+    </g>
+
+    <!-- Hard Bar -->
+    <g transform="translate(0, 64)">
+      <text class="font-sans" x="0" y="10" font-size="11" font-weight="700" fill="#A1A1AA" letter-spacing="0.5">Hard</text>
+      <text class="font-sans" x="290" y="10" text-anchor="end" font-size="11" font-weight="600" fill="#F4F4F5">4 <tspan fill="#71717A" font-weight="400">/ 770</tspan></text>
+      <rect x="0" y="16" width="290" height="6" rx="3" fill="#27272A" />
+      <rect x="0" y="16" width="4" height="6" rx="3" fill="#71717A" />
+    </g>
+  </g>
+
+  <!-- Bottom Metric Badges Row -->
+  <g transform="translate(190, 168)">
+    <!-- Acceptance Rate -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="90" height="34" rx="6" fill="#121215" stroke="#27272A" stroke-width="1" />
+      <text class="font-sans" x="45" y="12" text-anchor="middle" font-size="8" font-weight="600" fill="#71717A" letter-spacing="0.5">ACCEPTANCE</text>
+      <text class="font-sans" x="45" y="27" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">62.5%</text>
+    </g>
+
+    <!-- Global Rank -->
+    <g transform="translate(98, 0)">
+      <rect x="0" y="0" width="94" height="34" rx="6" fill="#121215" stroke="#27272A" stroke-width="1" />
+      <text class="font-sans" x="47" y="12" text-anchor="middle" font-size="8" font-weight="600" fill="#71717A" letter-spacing="0.5">GLOBAL RANK</text>
+      <text class="font-sans" x="47" y="27" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">Top 15%</text>
+    </g>
+
+    <!-- Contest Rating / Status -->
+    <g transform="translate(200, 0)">
+      <rect x="0" y="0" width="90" height="34" rx="6" fill="#121215" stroke="#27272A" stroke-width="1" />
+      <text class="font-sans" x="45" y="12" text-anchor="middle" font-size="8" font-weight="600" fill="#71717A" letter-spacing="0.5">CONTEST</text>
+      <text class="font-sans" x="45" y="27" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">1,580</text>
+    </g>
+  </g>
+</svg>
