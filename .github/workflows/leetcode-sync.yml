@@ -35,7 +35,7 @@ jobs:
 
       - name: Run LeetCode Sync Script
         env:
-          LEETCODE_USERNAME: ${{ vars.LEETCODE_USERNAME || 'james719-code' }}
+          LEETCODE_USERNAME: ${{ vars.LEETCODE_USERNAME || 'gallegojamesryan719' }}
         run: |
           python scripts/update_leetcode.py
 
