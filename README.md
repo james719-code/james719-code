@@ -183,15 +183,15 @@ A curated selection of production applications, research systems, and community 
 
 <!-- LEETCODE:START -->
 <div align="center">
-  <a href="https://leetcode.com/u/james719-code/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/leetcode-stats.svg" alt="LeetCode Stats - @james719-code" width="520" />
+  <a href="https://leetcode.com/u/gallegojamesryan719/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/leetcode-stats.svg" alt="LeetCode Stats - @gallegojamesryan719" width="520" />
   </a>
   <br/>
   <p>
-    <b>Problems Solved:</b> 54/3340 (1.6%) &nbsp;&bull;&nbsp;
-    <b>Acceptance:</b> 62.5% &nbsp;&bull;&nbsp;
-    <b>Ranking:</b> Top 15% &nbsp;&bull;&nbsp;
-    <b>Contest Rating:</b> 1,580
+    <b>Problems Solved:</b> 715/4110 (17.4%) &nbsp;&bull;&nbsp;
+    <b>Acceptance:</b> 51.0% &nbsp;&bull;&nbsp;
+    <b>Ranking:</b> #97,822 &nbsp;&bull;&nbsp;
+    <b>Contest Rating:</b> 1,475
   </p>
 </div>
 <!-- LEETCODE:END -->
