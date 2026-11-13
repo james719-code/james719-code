@@ -8,27 +8,27 @@
   "languages": [
     {
       "name": "Kotlin",
-      "percent": 39.2,
+      "percent": 33.3,
       "color": "#ffffff"
     },
     {
-      "name": "TypeScript",
-      "percent": 29.3,
+      "name": "Python",
+      "percent": 13.3,
       "color": "#d4d4d8"
     },
     {
-      "name": "Python",
-      "percent": 13.6,
+      "name": "C++",
+      "percent": 13.3,
       "color": "#a1a1aa"
     },
     {
       "name": "JavaScript",
-      "percent": 8.7,
+      "percent": 13.3,
       "color": "#71717a"
     },
     {
       "name": "PHP & Others",
-      "percent": 9.2,
+      "percent": 26.7,
       "color": "#52525b"
     }
   ]
