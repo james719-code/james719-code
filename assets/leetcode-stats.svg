@@ -42,11 +42,11 @@
     <circle cx="0" cy="0" r="44" stroke="#FFFFFF" stroke-width="7" fill="none"
             stroke-linecap="round"
             stroke-dasharray="276.46"
-            stroke-dashoffset="228.37"
+            stroke-dashoffset="228.23"
             transform="rotate(-90)"
             class="animate-arc" />
     <!-- Center Metric -->
-    <text class="font-sans" x="0" y="-4" text-anchor="middle" font-size="22" font-weight="800" fill="#FFFFFF">715</text>
+    <text class="font-sans" x="0" y="-4" text-anchor="middle" font-size="22" font-weight="800" fill="#FFFFFF">717</text>
     <text class="font-sans" x="0" y="12" text-anchor="middle" font-size="9" font-weight="700" fill="#A1A1AA" letter-spacing="1.2">SOLVED</text>
     <text class="font-sans" x="0" y="27" text-anchor="middle" font-size="10" font-weight="500" fill="#71717A">17.4%</text>
   </g>
@@ -64,7 +64,7 @@
     <!-- Medium Bar -->
     <g transform="translate(0, 32)">
       <text class="font-sans" x="0" y="10" font-size="11" font-weight="700" fill="#D4D4D8" letter-spacing="0.5">Medium</text>
-      <text class="font-sans" x="290" y="10" text-anchor="end" font-size="11" font-weight="600" fill="#F4F4F5">224 <tspan fill="#71717A" font-weight="400">/ 2146</tspan></text>
+      <text class="font-sans" x="290" y="10" text-anchor="end" font-size="11" font-weight="600" fill="#F4F4F5">226 <tspan fill="#71717A" font-weight="400">/ 2146</tspan></text>
       <rect x="0" y="16" width="290" height="6" rx="3" fill="#27272A" />
       <rect x="0" y="16" width="30" height="6" rx="3" fill="#D4D4D8" />
     </g>
@@ -84,14 +84,14 @@
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="90" height="34" rx="6" fill="#121215" stroke="#27272A" stroke-width="1" />
       <text class="font-sans" x="45" y="12" text-anchor="middle" font-size="8" font-weight="600" fill="#71717A" letter-spacing="0.5">ACCEPTANCE</text>
-      <text class="font-sans" x="45" y="27" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">51.0%</text>
+      <text class="font-sans" x="45" y="27" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">51.1%</text>
     </g>
 
     <!-- Global Rank -->
     <g transform="translate(98, 0)">
       <rect x="0" y="0" width="94" height="34" rx="6" fill="#121215" stroke="#27272A" stroke-width="1" />
       <text class="font-sans" x="47" y="12" text-anchor="middle" font-size="8" font-weight="600" fill="#71717A" letter-spacing="0.5">GLOBAL RANK</text>
-      <text class="font-sans" x="47" y="27" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">#97,822</text>
+      <text class="font-sans" x="47" y="27" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">#95,738</text>
     </g>
 
     <!-- Contest Rating / Status -->
