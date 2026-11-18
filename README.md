@@ -188,9 +188,9 @@ A curated selection of production applications, research systems, and community 
   </a>
   <br/>
   <p>
-    <b>Problems Solved:</b> 720/4114 (17.5%) &nbsp;&bull;&nbsp;
+    <b>Problems Solved:</b> 721/4115 (17.5%) &nbsp;&bull;&nbsp;
     <b>Acceptance:</b> 50.9% &nbsp;&bull;&nbsp;
-    <b>Ranking:</b> #94,536 &nbsp;&bull;&nbsp;
+    <b>Ranking:</b> #94,237 &nbsp;&bull;&nbsp;
     <b>Contest Rating:</b> 1,475
   </p>
 </div>
