@@ -66,7 +66,7 @@
     <g transform="translate(0, 84)">
       <rect x="0" y="0" width="124" height="50" rx="10" fill="#18181b" stroke="#27272a" stroke-width="1" />
       <text x="14" y="19" fill="#71717a" font-size="10.5" font-weight="500" class="font-sans">Repositories</text>
-      <text x="14" y="39" fill="#ffffff" font-size="17" font-weight="700" class="font-sans">16</text>
+      <text x="14" y="39" fill="#ffffff" font-size="17" font-weight="700" class="font-sans">17</text>
     </g>
 
     <!-- Tile 4: Pull Requests -->
@@ -93,11 +93,11 @@
 
     <!-- Segmented Monochrome Progress Bar (Total width = 400px) -->
     <g clip-path="url(#lang-bar-clip)">
-      <rect x="468" y="98" width="125" height="12" fill="#ffffff" />
-      <rect x="593" y="98" width="50" height="12" fill="#d4d4d8" />
-      <rect x="643" y="98" width="50" height="12" fill="#a1a1aa" />
-      <rect x="693" y="98" width="50" height="12" fill="#71717a" />
-      <rect x="743" y="98" width="125" height="12" fill="#52525b" />
+      <rect x="468" y="98" width="141" height="12" fill="#ffffff" />
+      <rect x="609" y="98" width="47" height="12" fill="#d4d4d8" />
+      <rect x="656" y="98" width="47" height="12" fill="#a1a1aa" />
+      <rect x="703" y="98" width="47" height="12" fill="#71717a" />
+      <rect x="750" y="98" width="117" height="12" fill="#52525b" />
     </g>
 
     <!-- Language Breakdown Legend (Row 1) -->
@@ -105,17 +105,17 @@
       <g transform="translate(0, 0)">
         <circle cx="5" cy="5" r="4.5" fill="#ffffff" />
         <text x="16" y="9" fill="#ffffff" font-size="12" font-weight="600" class="font-sans">Kotlin</text>
-        <text x="74" y="9" fill="#a1a1aa" font-size="11" class="font-sans">31.2%</text>
+        <text x="74" y="9" fill="#a1a1aa" font-size="11" class="font-sans">35.3%</text>
       </g>
       <g transform="translate(140, 0)">
         <circle cx="5" cy="5" r="4.5" fill="#d4d4d8" />
         <text x="16" y="9" fill="#ffffff" font-size="12" font-weight="600" class="font-sans">TypeScript</text>
-        <text x="106" y="9" fill="#a1a1aa" font-size="11" class="font-sans">12.5%</text>
+        <text x="106" y="9" fill="#a1a1aa" font-size="11" class="font-sans">11.8%</text>
       </g>
       <g transform="translate(295, 0)">
         <circle cx="5" cy="5" r="4.5" fill="#a1a1aa" />
         <text x="16" y="9" fill="#ffffff" font-size="12" font-weight="600" class="font-sans">Python</text>
-        <text x="74" y="9" fill="#a1a1aa" font-size="11" class="font-sans">12.5%</text>
+        <text x="74" y="9" fill="#a1a1aa" font-size="11" class="font-sans">11.8%</text>
       </g>
     </g>
 
@@ -124,12 +124,12 @@
       <g transform="translate(0, 0)">
         <circle cx="5" cy="5" r="4.5" fill="#71717a" />
         <text x="16" y="9" fill="#ffffff" font-size="12" font-weight="600" class="font-sans">C++</text>
-        <text x="50" y="9" fill="#a1a1aa" font-size="11" class="font-sans">12.5%</text>
+        <text x="50" y="9" fill="#a1a1aa" font-size="11" class="font-sans">11.8%</text>
       </g>
       <g transform="translate(140, 0)">
         <circle cx="5" cy="5" r="4.5" fill="#52525b" />
         <text x="16" y="9" fill="#ffffff" font-size="12" font-weight="600" class="font-sans">PHP &amp; Others</text>
-        <text x="154" y="9" fill="#a1a1aa" font-size="11" class="font-sans">31.2%</text>
+        <text x="154" y="9" fill="#a1a1aa" font-size="11" class="font-sans">29.4%</text>
       </g>
     </g>
 

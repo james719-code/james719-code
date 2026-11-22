@@ -4,31 +4,31 @@
   "total_commits": "373+",
   "pull_requests": "2",
   "total_stars": "1",
-  "repositories": "16",
+  "repositories": "17",
   "languages": [
     {
       "name": "Kotlin",
-      "percent": 31.2,
+      "percent": 35.3,
       "color": "#ffffff"
     },
     {
       "name": "TypeScript",
-      "percent": 12.5,
+      "percent": 11.8,
       "color": "#d4d4d8"
     },
     {
       "name": "Python",
-      "percent": 12.5,
+      "percent": 11.8,
       "color": "#a1a1aa"
     },
     {
       "name": "C++",
-      "percent": 12.5,
+      "percent": 11.8,
       "color": "#71717a"
     },
     {
       "name": "PHP & Others",
-      "percent": 31.2,
+      "percent": 29.4,
       "color": "#52525b"
     }
   ]
